@@ -17,10 +17,6 @@
 
 }
 
-.poke-info h4{
-  text-decoration: none;
-  
-}
 .poke-container:hover {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
   opacity: 1;
